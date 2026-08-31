@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "101",
         "title": "Yoru ni Kakeru",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -11,7 +11,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Yoru_ni_Kakeru-Yoasobi-jpop.mp3"
     },
     {
-        "id": "2",
+        "id": "102",
         "title": "Ano Yume wo Nazotte",
         "artist": "Yoasobi",
         "genre": "Pop",
@@ -22,7 +22,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Ano_Yume_wo_Nazotte-Yoasobi-jpop.mp3"
     },
     {
-        "id": "3",
+        "id": "103",
         "title": "Halzion",
         "artist": "Yoasobi",
         "genre": "Electronic Pop",
@@ -33,7 +33,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Halzion-Yoasobi-Jpop.mp3"
     },
     {
-        "id": "4",
+        "id": "104",
         "title": "Tabun",
         "artist": "Yoasobi",
         "genre": "Chill Pop",
@@ -44,7 +44,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Tabun-Yoasobi-Jpop.mp3"
     },
     {
-        "id": "5",
+        "id": "105",
         "title": "Gunjou",
         "artist": "Yoasobi",
         "genre": "Synth-Pop",
@@ -55,7 +55,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Gunjou-Yoasobi-Jpop.mp3"
     },
     {
-        "id": "6",
+        "id": "106",
         "title": "Haruka",
         "artist": "Yoasobi",
         "genre": "Ballad",
@@ -66,7 +66,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Haruka.mp3"
     },
     {
-        "id": "7",
+        "id": "107",
         "title": "Encore",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -77,7 +77,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Encore.mp3"
     },
     {
-        "id": "8",
+        "id": "108",
         "title": "Kaibutsu(Monsters)",
         "artist": "Yoasobi",
         "genre": "Pop Rock",
@@ -88,7 +88,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Kaibutsu(Monsters).mp3"
     },
     {
-        "id": "9",
+        "id": "109",
         "title": "Yasashii Suisei",
         "artist": "Yoasobi",
         "genre": "Ballad",
@@ -99,7 +99,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Yasashii_Suisei.mp3"
     },
     {
-        "id": "10",
+        "id": "110",
         "title": "Mou Sukoshi Dake",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -110,7 +110,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Mou_Sukoshi_Dake.mp3"
     },
     {
-        "id": "11",
+        "id": "111",
         "title": "Sangenshoku",
         "artist": "Yoasobi",
         "genre": "Upbeat Pop",
@@ -121,7 +121,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/upbeat_pop/Sangenshoku-Yoasobi-upbeat_pop.mp3"
     },
     {
-        "id": "12",
+        "id": "112",
         "title": "Love Letter",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -132,7 +132,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Love_Letter-Yoasobi-jpop.mp3"
     },
     {
-        "id": "13",
+        "id": "113",
         "title": "Taisho Romance",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -143,7 +143,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Taisho_Romance-Yoasobi-jpop.mp3"
     },
     {
-        "id": "14",
+        "id": "114",
         "title": "Tsubame",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -154,7 +154,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Tsubame-Yoasobi-jpop.mp3"
     },
     {
-        "id": "15",
+        "id": "115",
         "title": "Moshi mo Inochi ga Egaketara",
         "artist": "Yoasobi",
         "genre": "Ballad",
@@ -165,7 +165,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/ballad/Moshi_mo_Inochi_ga_Egaketara-Yoasobi-ballad.mp3"
     },
     {
-        "id": "16",
+        "id": "116",
         "title": "Mr.",
         "artist": "Yoasobi",
         "genre": "City Pop",
@@ -176,7 +176,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/city_pop/Mr-Yoasobi-city_pop.mp3"
     },
     {
-        "id": "17",
+        "id": "117",
         "title": "Suki Da",
         "artist": "Yoasobi",
         "genre": "Pop",
@@ -187,7 +187,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop/Suki_Da-Yoasobi-pop.mp3"
     },
     {
-        "id": "18",
+        "id": "118",
         "title": "Shukufuku",
         "artist": "Yoasobi",
         "genre": "Synth-Rock",
@@ -198,7 +198,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/synthrock/Shukufuku-Yoasobi-synthrock.mp3"
     },
     {
-        "id": "19",
+        "id": "119",
         "title": "Umi no Manimani",
         "artist": "Yoasobi",
         "genre": "Mid-tempo Pop",
@@ -209,7 +209,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/midtempo_pop/Umi_no_Manimani-Yoasobi-midtempo_pop.mp3"
     },
     {
-        "id": "20",
+        "id": "120",
         "title": "Adventure",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -220,7 +220,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Adventure-Yoasobi-jpop.mp3"
     },
     {
-        "id": "21",
+        "id": "121",
         "title": "Seventeen",
         "artist": "Yoasobi",
         "genre": "Pop Rock",
@@ -231,7 +231,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_rock/Seventeen-Yoasobi-pop_rock.mp3"
     },
     {
-        "id": "22",
+        "id": "122",
         "title": "Idol",
         "artist": "Yoasobi",
         "genre": "Pop Hip-hop",
@@ -242,7 +242,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_hiphop/Idol-Yoasobi-pop_hiphop.mp3"
     },
     {
-        "id": "23",
+        "id": "123",
         "title": "Yuusha",
         "artist": "Yoasobi",
         "genre": "Fantasy Pop",
@@ -253,7 +253,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/fantasy_pop/Yuusha-Yoasobi-fantasy_pop.mp3"
     },
     {
-        "id": "24",
+        "id": "124",
         "title": "Biri-Biri",
         "artist": "Yoasobi",
         "genre": "Electropop",
@@ -264,7 +264,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/electropop/Biri_Biri-Yoasobi-electropop.mp3"
     },
     {
-        "id": "25",
+        "id": "125",
         "title": "Heart Beat",
         "artist": "Yoasobi",
         "genre": "Pop",
@@ -275,7 +275,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop/Heart_Beat-Yoasobi-pop.mp3"
     },
     {
-        "id": "26",
+        "id": "126",
         "title": "Undead",
         "artist": "Yoasobi",
         "genre": "EDM",
@@ -286,7 +286,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/edm/Undead-Yoasobi-edm.mp3"
     },
     {
-        "id": "27",
+        "id": "127",
         "title": "Butai ni Tatte",
         "artist": "Yoasobi",
         "genre": "Pop Rock",
@@ -297,7 +297,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_rock/Butai_ni_Tatte-Yoasobi-pop_rock.mp3"
     },
     {
-        "id": "28",
+        "id": "128",
         "title": "Monotone",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -308,7 +308,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Monotone-Yoasobi-jpop.mp3"
     },
     {
-        "id": "29",
+        "id": "129",
         "title": "New Me",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -319,7 +319,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/New_Me-Yoasobi-jpop.mp3"
     },
     {
-        "id": "30",
+        "id": "130",
         "title": "Orion",
         "artist": "Yoasobi",
         "genre": "Drum & Bass Futurecore",
@@ -330,7 +330,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/drum_bass_futurecore/Orion-Yoasobi-drum_bass_futurecore.mp3"
     },
     {
-        "id": "31",
+        "id": "131",
         "title": "Adrena",
         "artist": "Yoasobi",
         "genre": "Pop EDM",
@@ -341,7 +341,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_edm/Adrena-Yoasobi-pop_edm.mp3"
     },
     {
-        "id": "32",
+        "id": "132",
         "title": "Baby",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -352,7 +352,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Baby-Yoasobi-jpop.mp3"
     },
     {
-        "id": "33",
+        "id": "133",
         "title": "Players",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -363,7 +363,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Players-Yoasobi-jpop.mp3"
     },
     {
-        "id": "34",
+        "id": "134",
         "title": "Watch Me!",
         "artist": "Yoasobi",
         "genre": "Jpop",
@@ -374,7 +374,7 @@
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Watch_Me-Yoasobi-jpop.mp3"
     },
     {
-        "id": "35",
+        "id": "135",
         "title": "Gekijō",
         "artist": "Yoasobi",
         "genre": "Jpop",
