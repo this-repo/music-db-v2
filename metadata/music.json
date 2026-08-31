@@ -249,8 +249,8 @@
         "album": "THE BOOK 3",
         "year": 2023,
         "duration": 234,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/fantasy_pop/Yuusha.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/fantasy_pop/Yuusha-Yoasobi-fantasy_pop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Yuusha.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Yuusha.mp3"
     },
     {
         "id": "124",
