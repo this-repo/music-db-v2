@@ -84,8 +84,8 @@
         "album": "THE BOOK 2",
         "year": 2021,
         "duration": 264,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop_rock/Kaibutsu.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_rock/Kaibutsu-Yoasobi-pop_rock.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Kaibutsu.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Kaibutsu(Monsters).mp3"
     },
     {
         "id": "9",
