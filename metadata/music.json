@@ -161,8 +161,8 @@
         "album": "THE BOOK 2",
         "year": 2021,
         "duration": 204,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/ballad/Moshi_mo_Inochi_ga_Egaketara.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/ballad/Moshi_mo_Inochi_ga_Egaketara-Yoasobi-ballad.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Moshi_mo_Inochi_ga_Egaketara.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Moshi_mo_Inochi_ga_Egaketara.mp3"
     },
     {
         "id": "116",
@@ -172,8 +172,8 @@
         "album": "THE BOOK 3",
         "year": 2022,
         "duration": 229,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/city_pop/Mr.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/city_pop/Mr-Yoasobi-city_pop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Mr..png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Mr.(%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC).mp3"
     },
     {
         "id": "117",
