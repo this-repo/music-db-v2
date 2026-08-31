@@ -260,8 +260,8 @@
         "album": "THE BOOK for,",
         "year": 2023,
         "duration": 257,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/electropop/Biri_Biri.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/electropop/Biri_Biri-Yoasobi-electropop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Biri-Biri.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Biri-Biri.mp3"
     },
     {
         "id": "125",
@@ -272,7 +272,7 @@
         "year": 2023,
         "duration": 242,
         "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Heart_Beat.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop/Heart_Beat-Yoasobi-pop.mp3"
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/HEART_BEAT.mp3"
     },
     {
         "id": "126",
