@@ -7,7 +7,7 @@
         "album": "Album Pertama",
         "year": 2019,
         "duration": 240,
-        "cover": "https://url-cover.jpg",
-        "url": ""
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Yoru_ni_Kakeru.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Yoru_ni_Kakeru-Yoasobi-jpop.mp3"
     }
 ]
