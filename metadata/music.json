@@ -29,8 +29,8 @@
         "album": "THE BOOK",
         "year": 2020,
         "duration": 183,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/electronic_pop/Halzion.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/electronic_pop/Halzion-Yoasobi-electronic_pop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Halzion.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Halzion-Yoasobi-Jpop.mp3"
     },
     {
         "id": "4",
