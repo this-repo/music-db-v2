@@ -194,8 +194,8 @@
         "album": "THE BOOK 3",
         "year": 2022,
         "duration": 224,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/synthrock/Shukufuku.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/synthrock/Shukufuku-Yoasobi-synthrock.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Shukufuku.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Shukufuku.mp3"
     },
     {
         "id": "119",
@@ -205,8 +205,8 @@
         "album": "THE BOOK 3",
         "year": 2022,
         "duration": 184,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/midtempo_pop/Umi_no_Manimani.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/midtempo_pop/Umi_no_Manimani-Yoasobi-midtempo_pop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Umi_no_Manimani.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Umi_no_Manimani.mp3"
     },
     {
         "id": "120",
@@ -216,8 +216,8 @@
         "album": "THE BOOK 3",
         "year": 2023,
         "duration": 183,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/Adventure.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Adventure-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Adventure.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Adventure.mp3"
     },
     {
         "id": "121",
@@ -227,8 +227,8 @@
         "album": "THE BOOK 3",
         "year": 2023,
         "duration": 227,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop_rock/Seventeen.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_rock/Seventeen-Yoasobi-pop_rock.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Seventeen.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Seventeen.mp3"
     },
     {
         "id": "122",
@@ -238,8 +238,8 @@
         "album": "THE BOOK 3",
         "year": 2023,
         "duration": 209,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop_hiphop/Idol.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_hiphop/Idol-Yoasobi-pop_hiphop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Idol.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Idol(%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB).mp3"
     },
     {
         "id": "123",
