@@ -128,8 +128,8 @@
         "album": "THE BOOK 2",
         "year": 2021,
         "duration": 181,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/Love_Letter.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Love_Letter-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Love_Letter.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Love_Letter.mp3"
     },
     {
         "id": "113",
