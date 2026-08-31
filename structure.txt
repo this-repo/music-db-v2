@@ -1,0 +1,11 @@
+music-storage/
+│
+├── metadata/
+│   └── music.json          <-- Berisi daftar lagu, judul, artis, cover, dan path file
+│
+└── tracks/
+    ├── pop/
+    │   ├── lagu-satu.mp3
+    │   └── lagu-dua.mp3
+    └── rock/
+        └── lagu-tiga.mp3

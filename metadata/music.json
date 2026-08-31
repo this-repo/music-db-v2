@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1",
+        "title": "Judul Lagu Pertama",
+        "artist": "Nama Artis",
+        "genre": "Pop",
+        "album": "Album Pertama",
+        "year": 1975,
+        "duration": 240,
+        "cover": "https://url-cover.jpg",
+        "url": ""
+    }
+]

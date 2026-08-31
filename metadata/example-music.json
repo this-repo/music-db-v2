@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "title": "Judul Lagu Pertama",
+        "artist": "Nama Artis",
+        "genre": "Pop",
+        "album": "Album Pertama",
+        "year": 1975,
+        "duration": 240,
+        "cover": "https://url-cover.jpg",
+        "url": "https://raw.githubusercontent.com/username/music-storage/main/tracks/pop/lagu-satu.mp3"
+    },
+    {
+        "id": "2",
+        "title": "Judul Lagu Kedua",
+        "artist": "Nama Artis",
+        "genre": "Pop",
+        "album": "Album Kedua",
+        "year": 1976,
+        "duration": 240,
+        "cover": "https://url-cover.jpg",
+        "url": "https://raw.githubusercontent.com/username/music-storage/main/tracks/pop/lagu-dua.mp3"
+    }
+]
