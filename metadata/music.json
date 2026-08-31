@@ -62,8 +62,8 @@
         "album": "THE BOOK",
         "year": 2020,
         "duration": 208,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/ballad/Haruka.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/ballad/Haruka-Yoasobi-ballad.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Haruka.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Haruka.mp3"
     },
     {
         "id": "7",
