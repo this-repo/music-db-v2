@@ -1,11 +1,11 @@
 [
     {
         "id": "1",
-        "title": "Judul Lagu Pertama",
-        "artist": "Nama Artis",
+        "title": "Yoru ni Kakeru",
+        "artist": "Yoasobi",
         "genre": "Jpop",
         "album": "Album Pertama",
-        "year": 1975,
+        "year": 2019,
         "duration": 240,
         "cover": "https://url-cover.jpg",
         "url": ""
