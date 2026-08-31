@@ -51,8 +51,8 @@
         "album": "THE BOOK",
         "year": 2020,
         "duration": 211,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/synthpop/Gunjou.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/synthpop/Gunjou-Yoasobi-synthpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Gunjou.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Gunjou-Yoasobi-Jpop.mp3"
     },
     {
         "id": "6",
