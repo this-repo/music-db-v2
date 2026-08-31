@@ -40,8 +40,8 @@
         "album": "THE BOOK",
         "year": 2020,
         "duration": 264,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/chill_pop/Tabun.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/chill_pop/Tabun-Yoasobi-chill_pop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Tabun.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Tabun-Yoasobi-Jpop.mp3"
     },
     {
         "id": "5",
