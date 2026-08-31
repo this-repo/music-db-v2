@@ -106,8 +106,8 @@
         "album": "THE BOOK 2",
         "year": 2021,
         "duration": 181,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/Mou_Sukoshi_Dake.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Mou_Sukoshi_Dake-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Mou_Sukoshi_Dake.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Mou_Sukoshi_Dake.mp3"
     },
     {
         "id": "11",
