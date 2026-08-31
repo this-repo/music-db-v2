@@ -85,7 +85,7 @@
         "year": 2021,
         "duration": 264,
         "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Kaibutsu.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Kaibutsu(Monsters).mp3"
+        "url": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/tracks/jpop/Kaibutsu%28Monsters%29.mp3"
     },
     {
         "id": "109",
@@ -249,7 +249,7 @@
         "album": "THE BOOK 3",
         "year": 2023,
         "duration": 234,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Yuusha.png",
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/main/cover/pop/Yuusha.png",
         "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Yuusha.mp3"
     },
     {
