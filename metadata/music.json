@@ -282,8 +282,8 @@
         "album": "THE BOOK for,",
         "year": 2024,
         "duration": 232,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/edm/Undead.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/edm/Undead-Yoasobi-edm.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Undead.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/UNDEAD.mp3"
     },
     {
         "id": "127",
@@ -293,8 +293,8 @@
         "album": "THE BOOK for,",
         "year": 2024,
         "duration": 224,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop_rock/Butai_ni_Tatte.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_rock/Butai_ni_Tatte-Yoasobi-pop_rock.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Butai_ni_Tatte.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Butai_ni_Tatte.mp3"
     },
     {
         "id": "128",
@@ -304,8 +304,8 @@
         "album": "THE BOOK for,",
         "year": 2024,
         "duration": 241,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/Monotone.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Monotone-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Monotone.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Monotone.mp3"
     },
     {
         "id": "129",
@@ -315,19 +315,19 @@
         "album": "THE BOOK for,",
         "year": 2024,
         "duration": 206,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/New_Me.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/New_Me-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/New_Me.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/New_me.mp3"
     },
     {
         "id": "130",
         "title": "Orion",
-        "artist": "Yoasobi",
+        "artist": "Yoasobi x Overwatch",
         "genre": "Drum & Bass Futurecore",
         "album": "THE BOOK for,",
         "year": 2026,
         "duration": 229,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/drum_bass_futurecore/Orion.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/drum_bass_futurecore/Orion-Yoasobi-drum_bass_futurecore.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Orion.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Orion.mp3"
     },
     {
         "id": "131",
@@ -337,8 +337,8 @@
         "album": "THE BOOK for,",
         "year": 2026,
         "duration": 269,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop_edm/Adrena.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/pop_edm/Adrena-Yoasobi-pop_edm.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Adrena.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Adrena.mp3"
     },
     {
         "id": "132",
@@ -348,8 +348,8 @@
         "album": "THE BOOK for,",
         "year": 2026,
         "duration": 200,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/Baby.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Baby-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Baby.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/BABY.mp3"
     },
     {
         "id": "133",
