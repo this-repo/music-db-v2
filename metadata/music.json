@@ -139,8 +139,8 @@
         "album": "THE BOOK 2",
         "year": 2021,
         "duration": 269,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/Taisho_Romance.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Taisho_Romance-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Romance.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Romance%20(%E5%A4%A7%E6%AD%A3%E6%B5%AA%E6%BC%AB).mp3"
     },
     {
         "id": "114",
