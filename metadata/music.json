@@ -145,13 +145,13 @@
     {
         "id": "114",
         "title": "Tsubame",
-        "artist": "Yoasobi",
+        "artist": "Yoasobi (Ft. Midories)",
         "genre": "Jpop",
         "album": "THE BOOK 2",
         "year": 2021,
         "duration": 217,
-        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/jpop/Tsubame.png",
-        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Tsubame-Yoasobi-jpop.mp3"
+        "cover": "https://raw.githubusercontent.com/this-repo/music-db-v2/refs/heads/main/cover/pop/Tsubame-Yoasobi%20_Ft.Midories-Jpop.png",
+        "url": "https://github.com/this-repo/music-db-v2/raw/refs/heads/main/tracks/jpop/Tsubame-Yoasobi%20_Ft.Midories-Jpop.mp3"
     },
     {
         "id": "115",
